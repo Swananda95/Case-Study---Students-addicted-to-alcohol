@@ -1,1 +1,1 @@
-# Case-Study---Students-addicted-to-alcohol
+Academic performance of students addicted to alcohol Used Logistic Regression.
